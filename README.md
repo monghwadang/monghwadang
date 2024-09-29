@@ -12,8 +12,10 @@
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
     <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+    <img src="https://img.shields.io/badge/QueryDSL-512BD4?style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white"> 
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+    
   </div>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
@@ -28,6 +30,7 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   </div>
 </div>
+
 
 <!--
 **monghwadang/monghwadang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
